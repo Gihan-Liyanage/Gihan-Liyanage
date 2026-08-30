@@ -83,16 +83,24 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gihan-Liyanage&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-ten-delta-68.vercel.app/api?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub commit streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihan-Liyanage&theme=algolia&hide_border=true" alt="GitHub commit streak stats" />
 </p>
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Top programming languages" />
+  <img src="https://github-readme-stats-ten-delta-68.vercel.app/api/top-langs?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top programming languages" />
 </p>
