@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gihan-liyanage/"><img src="https://img.shields.io/badge/LinkedIn-Gihan%20Liyanage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gihanliyanage.94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOURHANDLE"><img src="https://img.shields.io/badge/LinkedIn-Gihan%20Liyanage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -57,6 +57,18 @@
 
 ---
 
+### 📜 Certifications
+
+<p align="left">
+  <a href="https://graphacademy.neo4j.com/c/c5defbe1-6bcc-4e20-9a9d-ba0138e588fc"><img src="https://img.shields.io/badge/Neo4j%20Certified%20Professional-Neo4j%20GraphAcademy-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Certified Professional" /></a>
+  <a href="https://besa.techexpert.io/certification/gihanliyanage9465355/agentic-ai-on-aws-besa-398323"><img src="https://img.shields.io/badge/Agentic%20AI%20on%20AWS-BeSA%20Cloud%20Academy-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Agentic AI on AWS" /></a>
+</p>
+
+- **Neo4j Certified Professional** — Neo4j GraphAcademy · Nov 2024 · [Verify](https://graphacademy.neo4j.com/c/c5defbe1-6bcc-4e20-9a9d-ba0138e588fc)
+- **Agentic AI on AWS** — BeSA Cloud Academy · Mar 2026 · [Verify](https://besa.techexpert.io/certification/gihanliyanage9465355/agentic-ai-on-aws-besa-398323)
+
+---
+
 ### 🚀 What I Build
 
 🧩 **Reasoning at massive scale** — Architected an agentic system that navigates a taxonomy of *150,000+* categories, blending knowledge graphs, agentic RAG, fine-tuned LLMs, and hybrid search to make fine-grained decisions where brute-force classification breaks down.
@@ -71,24 +83,16 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gihan-Liyanage&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="GitHub statistics" />
+  <img src="./profile/stats.svg" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihan-Liyanage&theme=algolia&hide_border=true" alt="GitHub commit streak stats" />
+  <img src="./profile/streak.svg" alt="GitHub commit streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top programming languages" />
+  <img src="./profile/top-langs.svg" alt="Top programming languages" />
 </p>
