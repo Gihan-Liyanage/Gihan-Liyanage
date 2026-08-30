@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURHANDLE"><img src="https://img.shields.io/badge/LinkedIn-Gihan%20Liyanage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gihan-liyanage/"><img src="https://img.shields.io/badge/LinkedIn-Gihan%20Liyanage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gihanliyanage.94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -57,19 +57,24 @@
 
 ---
 
-### 🚀 What I've Been Building
+### 🚀 What I Build
 
-- **Agentic Product Classification** — knowledge graph + agentic RAG, fine-tuned LLMs, and hybrid search classifying invoice line items into a **145,000+ category** UNSPSC tree.
-- **Automated Journal Entry Prediction** — agentic AI over a dynamic knowledge base plus in-house incremental learning; integrates with Dynamics 365 Business Central, Björn Lundén, and Fortnox.
-- **PDF Enrichment** — multi-agent extraction with deep learning & computer vision, standardizing PDFs/scans into Peppol and UBL e-invoice formats.
-- **Staffing Optimization (Evidence)** — graph-theory redesign delivering a **20x** performance improvement.
+🧩 **Reasoning at massive scale** — Architected an agentic system that navigates a taxonomy of *150,000+* categories, blending knowledge graphs, agentic RAG, fine-tuned LLMs, and hybrid search to make fine-grained decisions where brute-force classification breaks down.
+
+🔄 **Systems that learn as they go** — Designed self-improving pipelines that fuse agentic AI with custom incremental-learning algorithms, adapting continuously to feedback and evolving domain patterns instead of relying on a single frozen model.
+
+👁️ **Turning messy documents into clean data** — Built multi-agent pipelines pairing LLM orchestration with deep learning and computer vision to extract, validate, and standardize unstructured documents into structured, machine-readable formats.
+
+⚡ **Algorithmic performance wins** — Re-engineered a core optimization routine using graph-theory techniques, delivering a *20x* speedup over the previous implementation.
+
+🎓 **Research & mentorship** — Supervise undergraduate research across Deep Learning, Agentic AI, and Generative AI, including published work on transformer-based forecasting.
 
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gihan-Liyanage&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
@@ -77,13 +82,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&hide_border=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=algolia&hide_border=true" alt="GitHub commit streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihan-Liyanage&theme=algolia&hide_border=true" alt="GitHub commit streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gihan-Liyanage&theme=algolia&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top programming languages" />
 </p>
