@@ -86,7 +86,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gihan-Liyanage&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph-eosin-nine.vercel.app/graph?username=Gihan-Liyanage&theme=react-dark&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
